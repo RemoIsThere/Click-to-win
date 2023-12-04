@@ -9,7 +9,7 @@ const Background = () => {
         left: window.innerWidth/2-100,
         width: '100%',
         height: '100%',
-        backgroundImage: "url('../components/track.png')",
+        backgroundImage: "url('../components/trac.png')",
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'auto 100%',
         
